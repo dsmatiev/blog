@@ -9,14 +9,14 @@ caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
 
-* admin
+- admin
 
 tags:
 
-* Markup Languages
-* Programming
-* Documentation
-* IT
+- Markup Languages
+- Programming
+- Documentation
+- IT
 
 ---
 
